@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235888860714",
+    "project_id": "video-call-d26ff",
+    "storage_bucket": "video-call-d26ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235888860714:android:385ebcab181007f218ad53",
+        "android_client_info": {
+          "package_name": "com.video_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235888860714-hpe9hpb3hdn7ceg874c0eihr3pg2l1gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Z6deujXA5hEW1CTOxQaQLgPOzIClqO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235888860714-hpe9hpb3hdn7ceg874c0eihr3pg2l1gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
